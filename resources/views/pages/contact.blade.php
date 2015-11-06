@@ -2,7 +2,7 @@
 
 @section('title', 'Contact')
 
-@section('description', "Contact Wilshire Law Firm, or attorney Daniel Miller specifically." )
+@section('description', "Contact Wilshire Law Firm, or attorney Daniel Miller specifically by completing online form or calling 1-800-522-7274." )
 
 @section('sidebar')
     @parent

@@ -2,7 +2,7 @@
 
 @section('title', 'Thank You')
 
-@section('description', "Thank you for contacting Daniel Miller, we will be in touch with you soon." )
+@section('description', "Thank you for contacting Daniel Miller of Wilshire lAw Firm. Someone will be in touch with you soon." )
 
 @section('follow', 'noindex, follow')
 

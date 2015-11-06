@@ -2,7 +2,7 @@
 
 @section('title', config('attorney.name'))
 
-@section('description', "Daniel Miller is a California personal injury lawyer, specializing in major accident cases." )
+@section('description', "Daniel Miller is a California personal injury lawyer at Wilshire Law Firm Daniel specializes in major accident and catastrophic injury cases." )
 
 @section('sidebar')
     @parent
@@ -20,7 +20,11 @@
         
             <h2 class="content-subhead">Personal Injury Attorney</h2>
             <p>
-				Many consider Attorney Daniel Miller to be an exemplar in his field because he always goes above and beyond the call of duty to achieve optimal case results on behalf of his clients. Throughout his illustrious legal career, he has taken on a variety of serious injury cases, including paralysis, amputation, traumatic brain injury, and wrongful death. A ferocious opponent of injustice, Daniel cannot stand it when insurance companies refuse to do right by innocent injury victims and their families, which is why he fights aggressively in and out of court to see his clients adequately compensated for the pain they have suffered due to no fault of their own.
+				Personal injury trial attorney Daniel Miller is a ferocious opponent of injustice. He cannot stand it when stingy insurance companies and corporations refuse to do right by innocent injury victims and their families. Although a strong believer in the settlement process, Daniel is always prepared to bring a case to court, especially when the defendant shows no willingness to negotiate in good faith. He fights aggressively in and out of court to even the odds for his clients and make them whole.
+            </p>
+            <p>
+                Daniel takes a very simple approach to trial: he relies on the truth and on the jury's ability to discern right from wrong, not on clever tactics or crafty rhetoric. His unassailable belief in his clients drives him to battle with confidence and integrity, and his unshakeable faith in the court system informs his respectful treatment of jurors. He neither condescends nor stoops to them but treats them as equals, because he knows that they only need to get the full story in order to make the right decision.
+
             </p>
 
             <p style="text-align: center">

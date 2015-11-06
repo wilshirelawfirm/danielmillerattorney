@@ -2,7 +2,7 @@
 
 @section('title', 'About '. config('attorney.name') )
 
-@section('description', "Meet attorney Daniel Miller, one of California's elite trial lawyers." )
+@section('description', "Daniel Miller, Esq. is a trial attorney at Wilshire Law Firm, one of the top personal injury law firms in the nation." )
 
 
 @section('sidebar')

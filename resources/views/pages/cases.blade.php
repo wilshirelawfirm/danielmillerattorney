@@ -2,7 +2,7 @@
 
 @section('title', "Daniel Miller's Cases")
 
-@section('description', "Discover the cases that trial attorney Daniel Miller handles." )
+@section('description', "Daniel Miller is a plaintiff's attorney that exclusively handles cases where insurance companies fail to do what is right for the injured." )
 
 @section('sidebar')
     @parent
