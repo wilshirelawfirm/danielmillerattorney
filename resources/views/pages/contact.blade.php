@@ -64,6 +64,7 @@
 		        </div>
 
 				<div class="pure-control-group">
+					<input type="hidden" name="_token" value="{{ csrf_token() }}">
 					{{ csrf_field() }}
 		            <button type="submit" class="pure-button pure-button-primary pure-input-1">Submit</button>
 				</div>
